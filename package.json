@@ -1,0 +1,15 @@
+{
+  "name": "hello-test",
+  "version": "1.0.0",
+  "description": "Hello CLI - Mac mini self-hosted development environment test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Naokii",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
